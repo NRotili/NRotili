@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ Im currently working on my own projects ✍<br>✔ Also work as a developer in the Municipality of Villla Constitución 🏛<br>✔ Im currently learning web development 💻<br><br>
+✔ Im currently working on my own projects ✍<br>✔ Also work as a developer in the Municipality of Villla Constitución 🏛<br>✔ Im currently learning web development 💻<br>✔ I am a Mathematics, Programming and Database teacher 👨‍🏫<br><br>
 
 
 ## 🌐 Socials:
